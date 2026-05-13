@@ -1,0 +1,33 @@
+{
+  "date": "YYYY-MM-DD",
+  "weight_kg": 0,
+  "waist_navel_cm": null,
+  "garmin": {
+    "body_fat_percent": null,
+    "muscle_mass_kg": null,
+    "resting_calories": null,
+    "active_calories": null,
+    "steps": null,
+    "sleep_hours": null
+  },
+  "nutrition": {
+    "meals": [
+      {
+        "time": null,
+        "items": [
+          {
+            "name": "",
+            "amount_g": 0
+          }
+        ]
+      }
+    ],
+    "daily_total": {
+      "kcal": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null
+    }
+  },
+  "notes": ""
+}
